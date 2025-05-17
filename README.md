@@ -21,7 +21,7 @@ Let’s be real—digging through long PDFs is painful. Whether it's a 200-page 
 
 ## 🧠 How It Works
 
-> From raw document → to intelligent conversation in seconds
+
 
 1. **Upload** any PDF
 2. **Parse** with blazing-fast PyMuPDF
